@@ -1,0 +1,50 @@
+backcall==0.2.0
+beautifulsoup4 @ file:///tmp/build/80754af9/beautifulsoup4_1601924105527/work
+certifi==2020.11.8
+chardet==3.0.4
+click==7.1.2
+colorama @ file:///tmp/build/80754af9/colorama_1603211150991/work
+cycler==0.10.0
+decorator==4.4.2
+Flask==1.1.2
+idna==2.10
+ipykernel @ file:///C:/ci/ipykernel_1596190155316/work/dist/ipykernel-5.3.4-py3-none-any.whl
+ipython @ file:///C:/ci/ipython_1604083276484/work
+ipython-genutils==0.2.0
+itsdangerous==1.1.0
+jedi @ file:///C:/ci/jedi_1598353661586/work
+Jinja2==2.11.2
+jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1601311786391/work
+jupyter-core==4.6.3
+kiwisolver @ file:///C:/ci/kiwisolver_1604014703538/work
+lxml==4.6.1
+MarkupSafe==1.1.1
+matplotlib @ file:///C:/ci/matplotlib-base_1603355780617/work
+mkl-fft==1.2.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+numpy @ file:///C:/ci/numpy_and_numpy_base_1603466732592/work
+olefile==0.46
+pandas @ file:///C:/ci/pandas_1602083338010/work
+pandas-datareader==0.9.0
+parso==0.7.0
+pickleshare==0.7.5
+Pillow @ file:///C:/ci/pillow_1603823068645/work
+prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1602688806899/work
+Pygments @ file:///tmp/build/80754af9/pygments_1604103097372/work
+pyparsing==2.4.7
+python-dateutil==2.8.1
+pytz==2020.1
+pywin32==227
+pyzmq==19.0.2
+requests==2.25.0
+scipy @ file:///C:/ci/scipy_1604596260408/work
+sip==4.19.13
+six @ file:///C:/ci/six_1605187374963/work
+soupsieve==2.0.1
+tornado==6.0.4
+traitlets @ file:///tmp/build/80754af9/traitlets_1602787416690/work
+urllib3==1.26.2
+wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
+Werkzeug==1.0.1
+wincertstore==0.2
